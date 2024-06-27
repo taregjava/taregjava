@@ -13,9 +13,13 @@ In my GitHub portfolio, you will find a collection of projects and code that ref
 Feel free to explore the repository and get a sense of my work and expertise.
 
 Contact Me
-If you'd like to connect or discuss software development, please reach out to me on LinkedIn or via WhatsApp at +00971558575376.
+If you'd like to connect or discuss software development, please reach out to me on LinkedIn or via WhatsApp at +971558575376.
 
 Thank you for visiting my GitHub portfolio, and I look forward to connecting with you!
+
+
+
+
 
 
 
